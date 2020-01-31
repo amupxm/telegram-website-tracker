@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-npm install
+just upload on ur website and change token and Chat_Id
 ```
 
 ## Author
@@ -30,4 +30,3 @@ npm install
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
